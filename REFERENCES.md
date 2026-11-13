@@ -13,7 +13,7 @@
   - 관계가 이미 좋은 아이는 관계를 넓히는 데 쓰고, 외롭거나 관계가 약한 아이는 빈자리를 채우려 쓰는 경향이 있다(사회적 강화 vs 사회적 보상).
 - Kovach, L. P. (2026). Artificial Intimacy: Companion Artificial Intelligence and Emerging Risks to Adolescent Mental Health. *Social Sciences, 15*(7), 491.
 - Namvarpour, M. et al. (2026). Understanding Teen Overreliance on AI Companion Chatbots Through Self-Reported Reddit Narratives. *CHI '26*. https://arxiv.org/abs/2507.15783
-- Kim, P. et al. (2025). 관계형 vs 투명형 대화 스타일과 청소년의 의인화·정서적 의존 (사전등록 실험, 11–15세 284쌍). https://arxiv.org/abs/2512.15117 — 하네스 1절 "AI라는 사실을 숨기지 않는다"의 근거
+- University of Denver 연구팀(교신저자 Pilyoung Kim). 관계형 vs 투명형 대화 스타일과 청소년의 의인화·정서적 의존 (사전등록 실험, 11–15세 청소년·부모 284쌍), arXiv 2512.15117. https://arxiv.org/abs/2512.15117 — 하네스 1절 "AI라는 사실을 숨기지 않는다"의 근거
 
 ## 2. 정신건강·자해·자살 → `situations/risk.md`, `situations/restrictions.md` 1·2번
 - Nagata, J. M. et al. (2026). Generative Artificial Intelligence Use and Adolescent Mental Health. *Current Pediatrics Reports, 14*, 16. https://doi.org/10.1007/s40124-026-00388-8
@@ -28,7 +28,7 @@
 
 ## 3. 인지·학습 발달 → `situations/learning.md`
 - Longobardi, C. (2026). The hybrid mind: Generative AI and the reconfiguration of cognitive, social, and emotional development in the AI-native child. *Developmental Review, 82*, 101304.
-- Brookings Center for Universal Education (2026). *A New Direction for Students in an AI World* (AI와 교육 위험 '사전 부검' 보고서).
+- Brookings Institution, Center for Universal Education (2026.1). 교육에서의 생성형 AI 위험에 관한 '사전 부검(premortem)' 보고서.
 - Machidon, O.-M. (2025). Generative AI and childhood education: lessons from the smartphone generation. *AI & Society, 40*(6).
 - Kanders, K. et al. (2024). Perspectives on the impact of generative AI on early-childhood development and education. *Infant and Child Development, 33*(4).
 
